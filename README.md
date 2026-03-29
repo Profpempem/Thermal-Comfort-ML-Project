@@ -40,7 +40,6 @@ You can access ERA5 data via:
 
 
 ### Methodology
-
 * Data preprocessing & feature engineering
 * UTCI computation using `pythermalcomfort`
 * Time-aware train/validation/test split
