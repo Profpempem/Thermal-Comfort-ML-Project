@@ -55,7 +55,7 @@ You can access ERA5 data via:
 * Coastal regions show slightly higher modeling errors
 
 
-### ⚠️ Important Note
+###  Important Note
 
 UTCI was derived from the same meteorological variables used as inputs.
 Therefore, this work represents **functional modeling (surrogate modeling)** rather than prediction of an independent variable.
